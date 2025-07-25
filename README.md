@@ -1,8 +1,10 @@
 # Encrypter
 
-[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![cryptography](https://img.shields.io/pypi/v/cryptography?label=cryptography&logo=pypi&color=blue)](https://pypi.org/project/cryptography/)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey?logo=linux&logoColor=white)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-3.7%2B-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![cryptography](https://img.shields.io/badge/cryptography-%5E41.0.0-306998?style=for-the-badge&logo=pypi&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-4CAF50?style=for-the-badge&logo=linux&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Security](https://img.shields.io/badge/Security-AES--GCM%20%7C%20PBKDF2-FF6F00?style=for-the-badge&logo=security&logoColor=white)
 
 ## Overview
 
